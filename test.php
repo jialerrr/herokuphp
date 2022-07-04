@@ -13,7 +13,7 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello World!</title>
+    <title>Hi World!</title>
 </head>
 
 <body>
