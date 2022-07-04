@@ -1,0 +1,13 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Loh Jia Ler",
+            "email": "20021576@myrp.edu.sg"
+        }
+    ],
+    "require": {}
+}
